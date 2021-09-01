@@ -1,0 +1,16 @@
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Debug\net5.0\NetCore.Docker.exe
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Debug\net5.0\NetCore.Docker.deps.json
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.json
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.dev.json
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Debug\net5.0\NetCore.Docker.dll
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Debug\net5.0\ref\NetCore.Docker.dll
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Debug\net5.0\NetCore.Docker.pdb
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.csproj.AssemblyReference.cache
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.AssemblyInfoInputs.cache
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.AssemblyInfo.cs
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.csproj.CoreCompileInputs.cache
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.dll
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\ref\NetCore.Docker.dll
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.pdb
+C:\D-Disk\_DevOps\helloworld-csharp\app\obj\Debug\net5.0\NetCore.Docker.genruntimeconfig.cache

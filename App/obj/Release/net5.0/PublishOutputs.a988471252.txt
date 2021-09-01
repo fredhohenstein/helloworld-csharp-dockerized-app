@@ -1,0 +1,5 @@
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Release\net5.0\publish\NetCore.Docker.exe
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Release\net5.0\publish\NetCore.Docker.dll
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Release\net5.0\publish\NetCore.Docker.deps.json
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Release\net5.0\publish\NetCore.Docker.runtimeconfig.json
+C:\D-Disk\_DevOps\helloworld-csharp\app\bin\Release\net5.0\publish\NetCore.Docker.pdb
